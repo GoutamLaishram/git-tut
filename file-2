@@ -1,1 +1,26 @@
-This is my file for sure
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gg</title>
+</head>
+<body>
+    <header>
+    <div id="navbar">
+        <a id="logo">amazon.in</a>
+        <a >Account</a>
+        <a >My Cart</a>
+        <a >Contact Us</a>
+        <input placeholder="search Amazon.in" >
+        <button>Search</button> 
+    </div>
+    </header>
+    <div id="content">
+    <div id="dd">Div1</div>
+    <div id="dd">Div2</div>
+    <div id="dd">Div3</div>
+    </div>
+    <footer>Footer</footer>
+</body>
+</html>
